@@ -8,3 +8,5 @@ I'm studying Ruby on Rails through [The Odin Project](https://www.theodinproject
 - Many Salesforce certs, may Salesforce trailhead badges.
 - Finish [WYWM's data pathway](https://withyouwithme.com/career-pathways/data-pathway/)
 - [ISTQB CTFL](https://www.istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/)
+- Many books through [Launch School](https://launchschool.com/books)
+- Testing For Beginners from [Ruby Monday Study Group](https://rubymonstas.org/)
