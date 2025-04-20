@@ -20,6 +20,9 @@ Converting from float to int doesn't round. Which naturally led me to wonder abo
 ## Boolean
 Most of my career has been spent on Salesforce. To see bools including nil as a "value" is plesantly surprising. Salesforce requires a value in their bools so they're *always* true or false and that's something I have to consider during the building of flows, formulas, and any other logic. I don't think I can really articulate why it's nice to have nil.
 
+## Modulo vs Remainder
+I'm glad I find math interesting instead of tedious. It has been a long time since I was in a classroom learning, mostly in passing, what a mod is. More-or-less my memory has it as "modulus is just the remainder." But it's not. I'm sure I knew that from high school math. But it's so long ago that the level of certainty I have is low. And now I'm in a small rabbit hole learning about it. I'm starting at [the big machine dot io](https://bigmachine.io/career/mod-and-remainder-are-not-the-same)  and a personal favorite [khan academy](https://en.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic) but I expect later today I'll be munching on popcorn while watching an hour long youtube video.
+
 ## irb
 ### Options
 As a part of The Odin Project I was reading the [this stackoverflow question about loading a file into IRB](https://stackoverflow.com/questions/13112245/ruby-how-to-load-a-file-into-interactive-ruby-console-irb/38533339) which had answers including options that I wasn't fully understanding. It took a little searching to find [die.net's page on Ruby options](https://linux.die.net/man/1/ruby) that included the -I and -r. This is one of those reading-it-doesn't-cement-it areas. Once I use the options more, and then come back to read this, I'm sure it'll click more fully.
