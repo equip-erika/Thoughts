@@ -18,6 +18,9 @@ I don't recall learning snake case before now. It is certainly more readable, pa
 ### Options
 As a part of The Odin Project I was reading the [this stackoverflow question about loading a file into IRB](https://stackoverflow.com/questions/13112245/ruby-how-to-load-a-file-into-interactive-ruby-console-irb/38533339) which had answers including options that I wasn't fully understanding. It took a little searching to find [die.net's page on Ruby options](https://linux.die.net/man/1/ruby) that included the -I and -r. This is one of those reading-it-doesn't-cement-it areas. Once I use the options more, and then come back to read this, I'm sure it'll click more fully.
 
+### Completing Methods
+While following along the lesson on [Data Types](https://www.theodinproject.com/lessons/ruby-basic-data-types) I saw irb display a little picklist/drop down. Took a little playing around to learn that tab will move me down the list of options. It also provided me clear instructions for viewing documentation on the method (alt + d). When ramping on a language and most of the information is more-or-less 1-1 with what you know, little things like this are fun to explore. The only issue I had was exiting the documentation view. ESC? nope. Ctrl + C? nope. Enter? nope. *Just the letter q.* I went a little squirrely for about two minutes trying to figure that one out.
+
 ## The Odin Project: Ruby Course
 https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby
 
