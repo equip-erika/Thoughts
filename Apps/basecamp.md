@@ -3,6 +3,10 @@ https://basecamp.com/
 
 Currently trying out the features as a way to track my online studying.
 
+## April 19th 2025
+### Find
+While consuming the Ruby course introduction readings, I accidentally discovered Ctrl + / opens find. I'm used to using Ctrl + k to do so in tools like Slack. Opening find features from keyboard shortcuts is one of my preferred methods of interact with multiple threads of information, so this was plesant to find early without searching for it specifically. 
+
 ## April 18th 2025
 ### To-Dos
 First impression when trying out the to-dos was uncertainty around the lack of subtask/sublists. I enjoy nesting my tasks, particularly if I think I can't do an individual item in one day. Checking my way through a list is a quick way for me to get back in the flow. Discreet units of work with an area to write notes is my comfort zone.
