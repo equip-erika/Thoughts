@@ -14,12 +14,18 @@ Multiple sources from the Ruby course I'm on tell me to use tab as 2 spaces. Not
 ## Snake Case
 I don't recall learning snake case before now. It is certainly more readable, particularly when involving acronyms. Camel casing and pascal casing with acronymns is a nightmare. I've worked around them by (a) avaoiding them, then (b) using underscores around them. But that's inconsistent. Perhaps I'll favor snake case outside of Ruby too.
 
+## Rounding
+Converting from float to int doesn't round. Which naturally led me to wonder about existing methods for floats since I currently can't imagine a scenario where I just want to chop off the decimal places. I found *.round*, which then led to reading the documentation on *.round* and playing around (*heh*) with the method parameters. Finally chaining together methods as such *2.5.round.to_i*. Overall, I am greatful that irb exists for me to play with that so early on. I find the learning curve of creating and running a file (no matter how minor that curve is) to be a barrier to this kind of silly experimentaiton during very early learning.
+
+## Boolean
+Most of my career has been spent on Salesforce. To see bools including nil as a "value" is plesantly surprising. Salesforce requires a value in their bools so they're *always* true or false and that's something I have to consider during the building of flows, formulas, and any other logic. I don't think I can really articulate why it's nice to have nil.
+
 ## irb
 ### Options
 As a part of The Odin Project I was reading the [this stackoverflow question about loading a file into IRB](https://stackoverflow.com/questions/13112245/ruby-how-to-load-a-file-into-interactive-ruby-console-irb/38533339) which had answers including options that I wasn't fully understanding. It took a little searching to find [die.net's page on Ruby options](https://linux.die.net/man/1/ruby) that included the -I and -r. This is one of those reading-it-doesn't-cement-it areas. Once I use the options more, and then come back to read this, I'm sure it'll click more fully.
 
 ### Completing Methods
-While following along the lesson on [Data Types](https://www.theodinproject.com/lessons/ruby-basic-data-types) I saw irb display a little picklist/drop down. Took a little playing around to learn that tab will move me down the list of options. It also provided me clear instructions for viewing documentation on the method (alt + d). When ramping on a language and most of the information is more-or-less 1-1 with what you know, little things like this are fun to explore. The only issue I had was exiting the documentation view. ESC? nope. Ctrl + C? nope. Enter? nope. *Just the letter q.* I went a little squirrely for about two minutes trying to figure that one out.
+While following along the lesson on [Data Types](https://www.theodinproject.com/lessons/ruby-basic-data-types) I saw irb display a little picklist/drop down. Took a little playing around to learn that tab will move me down the list of options. It also provided me clear instructions for viewing documentation on the method (alt + d). When ramping on a language and most of the information is more-or-less 1-1 with what you know, little things like this are fun to explore. The only issue I had was exiting the documentation view. ESC? nope. Ctrl + C? nope. Enter? nope. Typing out exit? nope. *Just the letter q.* I went a little squirrely for about two minutes trying to figure that one out.
 
 ## The Odin Project: Ruby Course
 https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby
