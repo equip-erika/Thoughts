@@ -1,12 +1,22 @@
 # Ruby
 
-https://docs.ruby-lang.org/en/3.2/index.html
+Official: https://docs.ruby-lang.org/en/3.2/index.html
+
+Unofficial: https://rubyapi.org/ 
+
+Unofficial: https://www.rubydoc.info/stdlib/core/index
+
+Gems: https://guides.rubygems.org/rubygems-basics/
 
 ## Whitespace
 Multiple sources from the Ruby course I'm on tell me to use tab as 2 spaces. Not as tabs, not as 4 or 6 or 8 spaces. Which had me wondering why. I tend to favor 4 spaces up to this point because I've found it the easiest to identify indentations without excessive white space. Is white space significant in Ruby like it is in Python? (I haven't read any Ruby beyond hello world at this point.) But from the 4 sources (just different sites with conversations), it's just convention for consistency and possibly to allow readable deeper nesting. I was directed to the unofficial guide at [caliban.org](https://caliban.org/ruby/rubyguide.shtml#indentation).
 
 ## Snake Case
 I don't recall learning snake case before now. It is certainly more readable, particularly when involving acronyms. Camel casing and pascal casing with acronymns is a nightmare. I've worked around them by (a) avaoiding them, then (b) using underscores around them. But that's inconsistent. Perhaps I'll favor snake case outside of Ruby too.
+
+## irb
+### Options
+As a part of The Odin Project I was reading the [this stackoverflow question about loading a file into IRB](https://stackoverflow.com/questions/13112245/ruby-how-to-load-a-file-into-interactive-ruby-console-irb/38533339) which had answers including options that I wasn't fully understanding. It took a little searching to find [die.net's page on Ruby options](https://linux.die.net/man/1/ruby) that included the -I and -r. This is one of those reading-it-doesn't-cement-it areas. Once I use the options more, and then come back to read this, I'm sure it'll click more fully.
 
 ## The Odin Project: Ruby Course
 https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby
@@ -16,7 +26,7 @@ https://launchschool.com/books/ruby
 
 The introduction of this book is part of the reading from The Odin Project. If I want to reitterate what I'm learning through The Odin Project, this appears to be a good source. They have other books covering topics like SQL, Agile, and Regular Expressions. I'll add these books to my ever-growing future projects list.
 
-The Preparations chapter is also part of the reading from The Odin Project. 
+The Preparations chapter is also part of the reading from The Odin Project. The [Using the Command Line and irb](https://launchschool.com/books/ruby/read/preparations#usingcommandlineandirb) section includes troubleshooting for AWS Cloud9. Specifically fixing an issue for configuration (IRB.conf[:USE_MULTILINE] = false).
 
 ## Ruby Monday Study Group curriculum for beginners
 https://ruby-for-beginners.rubymonstas.org/index.html
