@@ -3,6 +3,10 @@ https://basecamp.com/
 
 Currently trying out the features as a way to track my online studying.
 
+## April 20th 2025
+### Notes
+I'm typing notes in the tasks while working my way through The Odin Project as a way to internalize what I'm learning. There's no option for tables? It doesn't seem to be secretly hidden, only to reveal itself when you use markdown and save it. On one hand, this is likely me "misusing" the task feature. On the other, I love tables so I dislike when it's not a part of a text box. Since I can't relate documents to a task, I don't see an very clear workaround. This is my first "real" complaint where I don't see a solution beyond "please give me my tables, thank you."
+
 ## April 19th 2025
 ### Find
 While consuming the Ruby course introduction readings, I accidentally discovered Ctrl + / opens find. I'm used to using Ctrl + k to do so in tools like Slack. Opening find features from keyboard shortcuts is one of my preferred methods of interact with multiple threads of information, so this was plesant to find early without searching for it specifically. 
