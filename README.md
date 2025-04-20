@@ -10,3 +10,4 @@ I'm studying Ruby on Rails through [The Odin Project](https://www.theodinproject
 - [ISTQB CTFL](https://www.istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/)
 - Many books through [Launch School](https://launchschool.com/books)
 - Testing For Beginners from [Ruby Monday Study Group](https://rubymonstas.org/)
+- The entirety of the math curriculum on [Khan Academy](https://en.khanacademy.org/)
