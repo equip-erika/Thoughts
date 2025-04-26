@@ -26,6 +26,11 @@ I'm glad I find math interesting instead of tedious. It has been a long time sin
 ## Semicolon
 It has been clear since I started looking at Ruby that semicolons weren't a thing. The Odin Project (input/output lesson) just explicitly stated they're not necessary but that you *could* use them. Semicolons allow you to run multiple commands in one line. This is new to me and fun to learn. And this brings me back to school when we talked about the ternary operators. They have a time and place. You can use it, but should you? Clarity should always be a top priority. Your code can be elegant and perfect and amazing, but if it can't be understood by future you AND others after you, what is the point? How can your code be maintained or used in the future? What are you communicating? Improper use of minimized code is like using a thesaurus to look smarter in an essay.You've obfuscated your message because communicating the message was not the goal. Be clear to the people you're talking to. Know your audiance. Assume future you is a little bit less knowledgeable than current you.
 
+## Spaceship Operator
+Not much to say here other than it's cute. How many languages have this? Have I seen it before? Is my memory of it just bad? 
+
+https://en.wikipedia.org/wiki/Three-way_comparison Okay okay okay, I know strcmp in C isn't new to me. I'm going with my memory is just bad or no one told me it was also called a spaceship operator. I don't think I would have forgotten that name. 
+
 ## irb
 ### Options
 As a part of The Odin Project I was reading the [this stackoverflow question about loading a file into IRB](https://stackoverflow.com/questions/13112245/ruby-how-to-load-a-file-into-interactive-ruby-console-irb/38533339) which had answers including options that I wasn't fully understanding. It took a little searching to find [die.net's page on Ruby options](https://linux.die.net/man/1/ruby) that included the -I and -r. This is one of those reading-it-doesn't-cement-it areas. Once I use the options more, and then come back to read this, I'm sure it'll click more fully.
