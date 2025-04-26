@@ -31,6 +31,19 @@ Not much to say here other than it's cute. How many languages have this? Have I 
 
 https://en.wikipedia.org/wiki/Three-way_comparison Okay okay okay, I know strcmp in C isn't new to me. I'm going with my memory is just bad or no one told me it was also called a spaceship operator. I don't think I would have forgotten that name. 
 
+## And v &&, Or v ||
+Something about the word precedence isn't clicking for me. So now I'm ready perl documentation like reading this single word will suddenly make it click for me. It's like I'm learning *they're their there* again but just staring at the words out of all context. So this bit is just me working it out.
+
+|| is like a division in a math equation
+or is like a subtraction in a math equation
+where = is an assignment with priority (precedence?) between || and or
+
+So this is just BEDMAS for programming.
+
+[This](https://press.rebus.community/programmingfundamentals/chapter/order-of-operations/) confirms that. Okay, so I am kind of understanding.
+
+I'm not sure if staring at more examples helped me or if this site just had the right examples, but the women on rails post [here](https://womanonrails.com/operator-precedence-ruby) helped a lot. I still feel like I'm in a math class learning *they're their there* without examples (wrong class for the subject, clearly), probably because I'm not doing it. I should add doing something oddly complex just for the sake of getting precedence down.
+
 ## irb
 ### Options
 As a part of The Odin Project I was reading the [this stackoverflow question about loading a file into IRB](https://stackoverflow.com/questions/13112245/ruby-how-to-load-a-file-into-interactive-ruby-console-irb/38533339) which had answers including options that I wasn't fully understanding. It took a little searching to find [die.net's page on Ruby options](https://linux.die.net/man/1/ruby) that included the -I and -r. This is one of those reading-it-doesn't-cement-it areas. Once I use the options more, and then come back to read this, I'm sure it'll click more fully.
